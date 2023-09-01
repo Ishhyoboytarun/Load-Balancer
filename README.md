@@ -12,19 +12,19 @@ Before using this code, make sure you have the following prerequisites installed
 
 1. Clone this repository to your local machine:
 
-   ```shell
+   ```terminal
    git clone https://github.com/Ishhyoboytarun/Load-Balancer
    ```
 
 2. Navigate to the project directory:
 
-   ```shell
+   ```terminal
    cd load-balancer-reverse-proxy
    ```
 
 3. Build and run the load balancer:
 
-   ```shell
+   ```terminal
    go run main.go
    ```
 
@@ -53,10 +53,6 @@ You can customize the load balancer's behavior by modifying the code according t
 ## Error Handling
 
 Error handling in this code is minimal and is designed for demonstration purposes. In a production environment, you should implement more robust error handling strategies.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 

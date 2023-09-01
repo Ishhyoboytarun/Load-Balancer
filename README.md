@@ -13,7 +13,7 @@ Before using this code, make sure you have the following prerequisites installed
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone <[repository-url](https://github.com/Ishhyoboytarun/Load-Balancer/)>
+   git clone https://github.com/Ishhyoboytarun/Load-Balancer
    ```
 
 2. Navigate to the project directory:
